@@ -2,7 +2,7 @@
 
 Predict survival on the Titanic and get familiar with ML basics
 
-##The outline of our project
+## The outline of our project
 
 + drop some unnecessary columns
 
